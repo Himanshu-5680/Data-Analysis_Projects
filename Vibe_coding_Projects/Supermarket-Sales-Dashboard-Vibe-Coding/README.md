@@ -264,6 +264,7 @@ A 12-slide business presentation (`Supermarket_Sales_Report.pptx`) is included i
 ## 👤 Author
 **Himanshu Pathak** — Data Analyst & Vibe Coder  
 **Built with:** IBM Bob (AI Software Engineering Assistant)
+
 **Approach:** Vibe Coding — AI-orchestrated, intent-driven development
 
 ---
