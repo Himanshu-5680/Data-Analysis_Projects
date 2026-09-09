@@ -89,33 +89,6 @@ This dashboard transforms 500 raw transaction records into a **six-tab interacti
 
 **Result:** 500 clean records · 0 missing values · 0 duplicates
 
----
-
-## 📈 Visualisations & Results
-
-### Dashboard Overview
-![Dashboard Overview](link-to-screenshot-dashboard-overview)
-
-### Branch Performance
-![Branch Performance](link-to-screenshot-branch-performance)
-
-### Product & Category Analysis
-![Product Category](link-to-screenshot-product-category)
-
-### Payment Methods & Demographics
-![Payment Demographics](link-to-screenshot-payment-demographics)
-
-### Sales Trends Over Time
-![Monthly Trends](link-to-screenshot-monthly-trends)
-
-### Product × Branch Heatmap
-![Heatmap](link-to-screenshot-heatmap)
-
-### Key Insights Panel
-![Key Insights](link-to-screenshot-key-insights)
-
----
-
 ### Key Metrics (from the dataset)
 
 | KPI | Value |
@@ -289,8 +262,8 @@ A 12-slide business presentation (`Supermarket_Sales_Report.pptx`) is included i
 ---
 
 ## 👤 Author
-
-**Built with:** [IBM Bob](https://www.ibm.com/products/bob) — AI Software Engineering Assistant
+**Himanshu Pathak** — Data Analyst & Vibe Coder  
+**Built with:** IBM Bob (AI Software Engineering Assistant)
 **Approach:** Vibe Coding — AI-orchestrated, intent-driven development
 
 ---
