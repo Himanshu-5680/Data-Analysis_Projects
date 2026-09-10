@@ -184,7 +184,7 @@ def apply_layout(fig: go.Figure, title: str = "",
 # ─────────────────────────────────────────────────────────────────────────────
 @st.cache_data(show_spinner="Loading dataset…")
 def get_data():
-    return load_data("SUPER MARKET DATA.xlsx")
+    return load_data("Vibe_coding_Projects/Supermarket-Sales-Dashboard-Vibe-Coding/SUPER MARKET DATA.xlsx")
 
 
 df_full = get_data()
