@@ -15,6 +15,8 @@ import logging
 import pandas as pd
 import streamlit as st
 
+os.chdir(os.path.abspath(os.path.dirname(__file__)))
+
 # Ensure src/ is on the path
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "src"))
 
