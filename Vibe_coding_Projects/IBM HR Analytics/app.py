@@ -10,6 +10,7 @@ import io
 from pathlib import Path
 from typing import Any
 
+os.chdir(os.path.abspath(os.path.dirname(__file__)))
 import kagglehub
 import numpy as np
 import pandas as pd
