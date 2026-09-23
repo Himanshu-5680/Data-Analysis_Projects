@@ -66,3 +66,13 @@ Python 3.10+, pinned versions in `requirements.txt`. Kaggle credentials may be n
 ## 📁 Also in this repo
 
 `docs/Project_Report.docx` — a written report with a screenshot placeholder for every dashboard level, for anyone who'd rather read than click.
+
+## 🌐 Live Web Application
+
+The analytics platform is fully deployed and accessible in the cloud via Streamlit Community Cloud:
+
+* **Live URL:** [https://ibmhranalytics.streamlit.app](https://ibmhranalytics.streamlit.app)
+* **Hosting Platform:** Streamlit Cloud
+* **Status:** 🟢 Active & Deployed
+
+> **Evaluator Note:** You can test all 5 Business Intelligence levels (KPIs, Tenure Lifecycle Trends, Attrition Drivers, Risk Segmentation, and Strategic HR Actions) directly on the live platform without setting up local dependencies.
